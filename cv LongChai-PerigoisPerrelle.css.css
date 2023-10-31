@@ -1,0 +1,53 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #000000;
+    margin: 0;
+    padding: 20px;
+    background-image: url(Raccoon\ City.jpg);
+}
+
+.cv {
+    max-width: 600px;
+    margin: auto;
+    background-color: #ff0000;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h1 {
+    color: #ff0000;
+    text-align: center;
+}
+
+p {
+    color: #ffffff;
+}
+
+hr {
+    margin: 20px 0;
+    border: 0;
+    border-top: 1px solid #ff0000;
+}
+
+h2 {
+    color: #ff0000;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.profile-img {
+    display: block;
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
